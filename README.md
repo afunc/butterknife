@@ -1,4 +1,4 @@
-# org.afunc.butterknife
+# butterknife
 > just a replica form [https://github.com/JakeWharton/butterknife]("https://github.com/JakeWharton/butterknife")
 
 ##### base on version 7.0.1
